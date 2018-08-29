@@ -13,7 +13,7 @@ namespace OOP_Klasseopgave
         public string Stoerrelse;
 
         
-
+        //Metode til og regne moms
         public double Moms()
         {
             Pris = Pris * 1.25;
